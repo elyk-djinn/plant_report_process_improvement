@@ -1,0 +1,4 @@
+Date,Month,Type,Customer Name,Quantity,Project
+2025-01-02,January,BANK,Company A,300,Project 1
+2025-01-02,January,BANK,Company B,400,Project 2
+2025-01-03,January,NON-BANK,Company C,150,Project 3

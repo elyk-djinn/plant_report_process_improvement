@@ -1,0 +1,4 @@
+Date,Month,Type,Project Name,Delivered Qty,Card Type,Scheme
+2025-01-02,January,BANK,Company A,250,Credit,Scheme 1
+2025-01-02,January,BANK,Company B,430,Debit,Scheme 2
+2025-01-03,January,NON-BANK,Company C,120,Prepaid,Scheme 1
